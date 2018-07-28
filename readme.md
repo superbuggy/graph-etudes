@@ -1,4 +1,4 @@
-# graph-etudes 🙏
+# Graph Etude 🙏
 
 > Study of Graphs to come
 
